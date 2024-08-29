@@ -23,3 +23,7 @@ const firstCustomer: Customer = {
 }
 ```
 
+## Step 4: Add a Checklist
+- [x] Walk my dog
+- [x] Study for 4 hours
+- [ ] Update my resume
